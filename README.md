@@ -72,4 +72,4 @@ It will then show you the full draft. You can:
 
 - `credentials.json` and `token.json` are sensitive — do not commit them to GitHub. Add them to your `.gitignore`.
 - The agent only has permission to **send** email, not read or modify your inbox.
-# AI-Email-Agent
+
